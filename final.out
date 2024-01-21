@@ -1,0 +1,7 @@
+mode: set
+codecov/main.go:9.13,13.2 3 0
+codecov/sample_code.go:5.23,8.2 1 1
+codecov/folder1/sample_folder1.go:5.24,7.2 1 0
+codecov/folder2/sample_folder2.go:5.24,7.2 1 0
+codecov/folder1/sample_folder1.go:5.24,7.2 1 1
+codecov/folder2/sample_folder2.go:5.24,7.2 1 1
